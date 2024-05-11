@@ -10,3 +10,5 @@ _From the original readme:_
 > Written by Daniel Flinkmann, http://www.Flinkmann.de  
 > Newest Version: http://www.flinkmann.de/ 
 
+**[wayback link](https://web.archive.org/web/20070221054041/http://flinkmann.de/colorize-pl.71.0.html)**
+
