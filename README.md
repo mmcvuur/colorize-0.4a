@@ -2,6 +2,8 @@
 
 The famous, hard to find colorize-0.4a.
 
+_From the original readme:_
+
 > Name: Colorize  
 > Current Version: 0.4a 
 > Last Update: 11.01.2008  
